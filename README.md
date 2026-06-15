@@ -27,3 +27,5 @@
   "dateModified": ""
 }
 ```
+
+Check cú pháp tại link `https://validator.schema.org/`
